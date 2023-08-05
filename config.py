@@ -3,8 +3,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-API_ID = int(getenv("29028317"))
-API_HASH = getenv("8f2831819e4f3fdc44945d2e4d2aa095")
+API_ID = int(getenv("18189325"))
+API_HASH = getenv("7cb3b3ea70ba49f0721a511013eefe53")
 
 BOT_TOKEN = getenv("6540492667:AAHhF4QSufK_VHwTwxUT749r0vQBiLoAkug")
 OWNER_ID = int(getenv("5848055044"))
